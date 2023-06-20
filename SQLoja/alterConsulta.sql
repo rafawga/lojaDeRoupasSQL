@@ -1,3 +1,5 @@
+use lojaDeRoupa
+
 ---------------  2 ALTER
 
 ALTER TABLE Pagamento
